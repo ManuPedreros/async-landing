@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ManuPedreros/async-landing/issues"
   },
-  "homepage": "https://github.com/ManuPedreros/async-landing#readme"
+  "homepage": "https://github.com/ManuPedreros/async-landing#readme",
+  "devDependencies": {
+    "prettier": "2.8.3"
+  }
 }
